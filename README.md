@@ -1,6 +1,3 @@
-# tic-tac-toe
-tic tac toe using tkinter
-
 
 # Tic Tac Toe Game
 
